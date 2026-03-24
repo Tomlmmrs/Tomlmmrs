@@ -16,7 +16,7 @@
 
 ## 📫 Connect
 - 🌐 Blog: https://www.tomlmmrs.com/
-- 💼 LinkedIn: (add if you want)
+- 💼 LinkedIn: https://www.linkedin.com/in/tom-lammers-65041a28a/
 
 ---
 

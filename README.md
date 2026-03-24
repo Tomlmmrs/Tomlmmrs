@@ -35,30 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tomlmmrs&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔍 Current Focus
-- Attack graph generation for Kubernetes environments  
-- Automating **lateral movement detection**  
-- Bridging **offensive & defensive security**
-
----
-
-## 🧠 Interests
-- Security research & exploitation  
-- Distributed systems & cloud infrastructure  
-- Philosophy (Dostoevsky, Camus)
-
----
-
-## 🌍 Long Term
-- Work in high-level offensive security / research  
-- Gain experience in international environments (🇺🇸)  
-- Build tools that model **real attacker behavior**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomlmmrs&layout=compact&theme=tokyonight)
 
 ---
 
